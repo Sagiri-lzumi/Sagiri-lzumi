@@ -8,3 +8,20 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sagiri-lzumi&theme=default" width="35%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sagiri-lzumi&theme=default" width="35%" />
 </p>
+
+<h3 align="center">Tech Stack</h3>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=py,c,cs,cpp,linux,git,docker,cmake,vscode&theme=light"
+    alt="Tech Stack"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=ffffff&color=57606a&line=0969da&point=0969da&area=true&hide_border=true&custom_title=Contribution%20Activity"
+    width="100%"
+    alt="Contribution Activity"
+  />
+</p>
