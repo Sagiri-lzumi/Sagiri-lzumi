@@ -9,13 +9,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sagiri-lzumi&theme=default" width="35%" />
 </p>
 
-<h3 align="center">Tech Stack</h3>
 
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=py,c,cs,cpp,linux,git,docker,cmake,vscode&theme=light"
-    
-  />
+    >
 </p>
 
 <p align="center">
