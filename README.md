@@ -14,14 +14,14 @@
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=py,c,cs,cpp,linux,git,docker,cmake,vscode&theme=light"
-    alt="Tech Stack"
+    
   />
 </p>
 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Sagiri-lzumi&bg_color=ffffff&color=57606a&line=0969da&point=0969da&area=true&hide_border=true&custom_title=Contribution%20Activity"
-    width="100%"
+    width="70%"
     alt="Contribution Activity"
   />
 </p>
