@@ -23,3 +23,17 @@
     alt="Contribution Activity"
   />
 </p>
+
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api?username=Sagiri-lzumi&show_icons=true&rank_icon=github&title_color=24292f&text_color=57606a&icon_color=0969da&bg_color=ffffff&border_color=d0d7de&border_radius=12"
+    alt="GitHub Stats"
+  />
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=Sagiri-lzumi&layout=compact&langs_count=6&title_color=24292f&text_color=57606a&bg_color=ffffff&border_color=d0d7de&border_radius=12"
+    alt="Top Languages"
+  />
+</p>
