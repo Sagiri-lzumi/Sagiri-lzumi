@@ -19,7 +19,7 @@
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Sagiri-lzumi&bg_color=ffffff&color=57606a&line=0969da&point=0969da&area=true&hide_border=true&custom_title=Contribution%20Activity"
-    width="70%"
+    width="80%"
     alt="Contribution Activity"
   />
 </p>
