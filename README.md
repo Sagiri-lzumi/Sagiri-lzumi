@@ -19,7 +19,7 @@
 
 <p align="center">
   <img
-    width="800"
+    width="700"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sagiri-lzumi&theme=github"
     alt="Contribution Activity"
   />
