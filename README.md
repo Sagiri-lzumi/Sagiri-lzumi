@@ -19,10 +19,11 @@
   />
 </p>
 
+
 <p align="center">
   <img
     width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Sagiri-lzumi&bg_color=ffffff&color=57606a&title_color=24292f&line=0969da&point=0969da&area=true&area_color=0969da&border_color=d0d7de&radius=12&height=300&days=31&custom_title=Contribution%20Activity"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sagiri-lzumi&theme=github&bg_color=ffffff&title_color=24292f&text_color=57606a&chart_color=0969da&border_color=d0d7de"
     alt="Contribution Activity"
   />
 </p>
